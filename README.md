@@ -1,0 +1,2 @@
+# Django-vendor-management-sustem
+this is full time project in django for vendor , client and warehouse management system
